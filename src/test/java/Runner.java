@@ -53,7 +53,7 @@ public class Runner{
 
     @Test
     public void updateExistingEmployee() {
-        Employee employeeToUpdate = JSONHelper.fromJsonToObject("update_existing_employee1.json",Employee.class);
+        Employee employeeToUpdate = JSONHelper.fromJsonToObject("update_existing_employee.json",Employee.class);
         assert employeeToUpdate != null;
 
         Employee savedEmployee = employeeCRUD.updateExistingEmployee(employeeToUpdate);
