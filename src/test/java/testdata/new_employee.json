@@ -1,0 +1,23 @@
+{
+    "id": 11,
+    "firstName": "Luz",
+    "lastName": "Pulido",
+    "email": "luz.pulido@email.com",
+    "phone": "1234567",
+    "address": "Cll 3 #4-5",
+    "salary": "23000",
+    "birth": "2001-06-04",
+    "company": {
+        "id": "3",
+        "name": "Only",
+        "phone": "487257",
+        "email": "only@gmail.com",
+        "address":"12 Oxford st."
+    },
+    "institution": {
+        "id": "2",
+        "name": "Universidad",
+        "phone": "5409135",
+        "email": "universidad@mail.com"
+    }
+}

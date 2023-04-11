@@ -1,0 +1,23 @@
+{
+    "id": 92,
+    "firstName": "Krilin",
+    "lastName": "Perez",
+    "email": "krilip@gmail.com",
+    "phone": "7542306",
+    "address": "cll 4 #5-6",
+    "salary": "4000",
+    "birth": "1984-09-17",
+    "company": {
+        "id": "5",
+        "name": "PriceSmart",
+        "phone": "5522678",
+        "email": "pricemart@gmail.com",
+        "address":"85 Turbo Ave."
+    },
+    "institution": {
+        "id": "3",
+        "name": "Sena",
+        "phone": "4786523",
+        "email": "sena@mail.com"
+    }
+}

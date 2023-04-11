@@ -1,0 +1,23 @@
+{
+    "id": 11,
+    "firstName": "Luz",
+    "lastName": "Pulido",
+    "email": "luz.pulido@email.com",
+    "phone": "5405101",
+    "address": "Cll 7 #8-9",
+    "salary": "4000",
+    "birth": "2001-06-04",
+    "company": {
+        "id": "5",
+        "name": "PriceSmart",
+        "phone": "5522678",
+        "email": "pricemart@gmail.com",
+        "address":"85 Turbo Ave."
+    },
+    "institution": {
+        "id": "2",
+        "name": "Universidad",
+        "phone": "5409135",
+        "email": "universidad@mail.com"
+    }
+}
